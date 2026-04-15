@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Merced, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Merced, California, US",
+  "export_job_id": "5e8cb268-8230-4363-ac8a-bcad5c89407d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 948451,
+  "location_name": "Merced",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-merced-california-us-sample-948451",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/948451/beamstation_948451_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 10.07,
+  "sample_records": 15,
+  "sample_sha256": "41177b1a2e4a31c84e09a03a7bb8bdc03659bcee609ce361021990c52dce7435",
+  "sample_size_bytes": 57104,
+  "total_records": 149,
+  "updated_at": "2026-04-07T10:29:32.890538+00:00"
+}
