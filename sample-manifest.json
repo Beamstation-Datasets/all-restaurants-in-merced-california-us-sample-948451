@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5e8cb268-8230-4363-ac8a-bcad5c89407d",
+  "export_job_id": "ee338d37-09db-4f88-91f2-46963e7cc571",
   "id_short": 948451,
-  "published_at": "2026-04-15T07:56:13Z",
+  "published_at": "2026-04-18T07:16:05Z",
   "repo_name": "all-restaurants-in-merced-california-us-sample-948451",
   "sample_asset_name": "beamstation_948451_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/948451/beamstation_948451_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 15,
   "sample_sha256": "41177b1a2e4a31c84e09a03a7bb8bdc03659bcee609ce361021990c52dce7435",
   "sample_size_bytes": 57104,
-  "total_records": 149
+  "total_records": 155
 }
