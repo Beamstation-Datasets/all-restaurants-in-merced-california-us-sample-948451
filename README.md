@@ -1,6 +1,6 @@
 # All Restaurants in Merced, California, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `948451` |
 | Location | Merced |
 | Category | Restaurants |
-| Full dataset size | 131 records |
-| Free sample size | 13 records (9.92%) |
-| Last export | 2026-04-21T10:28:20.015906+00:00 |
+| Full dataset size | 162 records |
+| Free sample size | 16 records (9.88%) |
+| Last export | 2026-04-28T11:01:31.073356+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-merced-california-us-sample-948451/releases/download/sample-latest/beamstation_948451_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
